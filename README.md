@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Atualmente sou desenvolvedor Python, Java e C++**
+  🦄 Linguagens: Atualmente sou desenvolvedor Python, Java e C++
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Vscode,Intellij IDEA e CLion**
+  💼 Ferramentas: Vscode,Intellij IDEA e CLion
 </p>
 
 <p align="left">
