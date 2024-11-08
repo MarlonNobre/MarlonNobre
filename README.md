@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá eu sou Marlon Nobre e atualmente sou estudante de programação pela Universidade Federal do Ceará <strong>sua stack</strong>.<br>
+  Olá eu sou Marlon Nobre e atualmente sou estudante de programação pela Universidade Federal do Ceará <strong>atualmente sou Dev Junior com foco em Backend</strong>.<br>
 
 </p>
 
